@@ -1,9 +1,9 @@
 
-function calculator(operator,num1, num2) {
+function calculator(operator,num1, num2, num3) {
 
     if (operator === "sum") {
           
-          return num1 + num2;
+          return num1 + num2 + num3;
 
     }
     if (operator === "subs") {
