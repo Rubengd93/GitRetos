@@ -1,0 +1,20 @@
+
+<!-- 1 // Primero debemos inicializar git dentro del proyecto que queremos utilizar, para ello,
+utilizamos git init o clonar un repositorio ya creado con git clone
+
+2 // Una vez que ya lo tenemos enlazado podemos empezar a trabajar en local
+y a escribir codigo en el directorio de trabajo.
+
+3 // Del directorio de trabajo lo pasaremos al area de preconfirmacion con git add,
+aqui git empieza a rastrear el fichero creado.
+
+4 // Utilizaremos git commit -m, para confirmar los cambios que se hicieron anteriormente en repositorio local con un mensaje identificador para preparar el archivo para subirlo al repositorio remoto.
+
+5// Para subirlo al repositorio remoto crearemos una rama con git branch -M main (se hace solo cuando se utiiza git init) y seguidamente  tenemos que enlazar la url con nuestro repositorio local con get remote add origin y la url.
+
+6// Finalmente utilizaremos git push para pasarle lo que tenemos en local al repositorio remoto. -->
+
+<!-- gitignore
+
+Hemos creado el archivo ignore para ocultar todos los elementos que 
+no queremos que aparezcan en el proyecto -->
