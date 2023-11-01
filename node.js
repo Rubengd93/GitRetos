@@ -24,11 +24,7 @@ function calculator(operator,num1, num2) {
 
 }
 
-function cuadNum(n){
 
-    return n*2;
-
-}
 
 // let cuad2 = cuadNum(4);
 // console.log(cuad2);
